@@ -1,0 +1,32 @@
+<keymap version="1" name="Shlomi" parent="$default">
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="DSM.OpenInEditor" />
+  <action id="Database.OpenDbStorageAction" />
+  <action id="Debugger.EditFrameSource" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="Jdbc.OpenConsole" />
+  <action id="Jdbc.OpenEditor" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="OpenModuleSettings" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="RemoteHostView.EditSource" />
+  <action id="RunDashboard.EditConfiguration" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+</keymap>
