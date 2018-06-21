@@ -7,7 +7,9 @@
   <action id="Diff.PrevChange" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
