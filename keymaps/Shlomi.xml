@@ -1,4 +1,9 @@
 <keymap version="1" name="Shlomi" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="DSM.OpenInEditor" />
   <action id="Database.OpenDbStorageAction" />
@@ -14,6 +19,11 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages" />
   <action id="Jdbc.OpenConsole" />
