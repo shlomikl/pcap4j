@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="JavaGlobalLibraries">
+      <CLASSES>
+        <root url="file://C:/svn/rnd/JavaGlobalLibraries" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/svn/rnd/JavaGlobalLibraries/maverick-sshd-source/src" />
+        <root url="file://C:/svn/rnd/JavaGlobalLibraries" />
+      </SOURCES>
+      <jarDirectory url="file://C:/svn/rnd/JavaGlobalLibraries" recursive="false" />
+      <jarDirectory url="file://C:/svn/rnd/JavaGlobalLibraries" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>
